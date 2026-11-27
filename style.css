@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: RGB(204, 255, 204);
+}
+.blog-image {
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+p {
+    color: #315c45;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.nav {
+    text-align: center;
+}
+a{
+    color: #327696;
+    text-decoration: underline;
+}
+li {
+    color: #315c45;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: center;
+    text-align: justify;
+}
+ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    padding-left: 0;
+    text-align: center;
+    text-align: justify;
+}
